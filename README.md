@@ -42,8 +42,8 @@ Operators in Python
    <=       Less than or equal to  x<=y
 
 4. Logical Operators
-    Operator      Description                           Example
-    and  return true if both statements are true   x<5 and x<10
-    or  returns true if one of the statements is true  x<5 or x<10
-    not reverse the result, returns false if the result is true     not(x<5 and x<10)
+    Operator            Description                                             Example
+    and      return true if both statements are true                         x<5 and x<10
+    or       returns true if one of the statements is true                    x<5 or x<10
+    not      reverse the result, returns false if the result is true        not(x<5 and x<10)
 
