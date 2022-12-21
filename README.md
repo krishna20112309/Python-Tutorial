@@ -220,3 +220,15 @@ Read more about the placeholders in the Placeholder section below.
  11. sort() -> sort the list
  12. reverse() -> reverse the list
  13. index() -> return the index of the element
+ 14. split() -> split the sentence into words
+
+
+# Stack in Python
+  * The stack is a linear data structute
+  * Stores item in a Last-In/First-Out (LIFO) or First-In/Last-Out(FILO) manner
+
+     # Stack Operations
+     1. Push-> Inserting an element
+     2. Pop-> Deletion an element
+     3. Peek -> Display the last Element
+     4. Display-> Display List
