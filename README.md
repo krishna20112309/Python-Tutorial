@@ -232,3 +232,16 @@ Read more about the placeholders in the Placeholder section below.
      2. Pop-> Deletion an element
      3. Peek -> Display the last Element
      4. Display-> Display List
+     5. exit -> exit from list
+
+# Queue in Python
+ * The Queue is a linear data structure
+ * Stores items in First-in-First-out(FIFO) manner
+
+   # Queue Operations
+   1. Enqueue: Adds an item to the queue.
+   2. Dequeue: Removes an item from the queue
+   3. Front: Get the front item from queue
+   4. Rear: Get last item from queue.
+
+
